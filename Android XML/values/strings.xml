@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Test_Key_1"></string>
+  <string name="Test_Key_2">A Value</string>
+  <string name="Test_Key_3">Apple Pie</string>
+  <string name="Test_Key_4">Pear Pie</string>
+  <plurals name="Test_Key_5">
+    <item quantity="one">Pie</item>
+    <item quantity="other">Many Pies</item>
+  </plurals>
+</resources>

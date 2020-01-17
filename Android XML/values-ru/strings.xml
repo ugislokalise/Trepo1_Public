@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Test_Key_1"></string>
+  <string name="Test_Key_2">Ценность</string>
+  <string name="Test_Key_3">Яблочный пирог</string>
+  <string name="Test_Key_4">Грушевый пирог</string>
+  <plurals name="Test_Key_5">
+    <item quantity="one"></item>
+    <item quantity="few"></item>
+    <item quantity="many"></item>
+    <item quantity="other"></item>
+  </plurals>
+</resources>
