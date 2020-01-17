@@ -6,8 +6,8 @@
 		</header>
 		<body>
 			<trans-unit id="Test_Key_1">
-				<source>AutoTest</source>
-				<target>AutomātiskaisTests</target>
+				<source>AutoTestt</source>
+				<target>AutomātiskaisTestts</target>
 			</trans-unit>
 			<trans-unit id="Test_Key_2">
 				<source>A Value</source>
