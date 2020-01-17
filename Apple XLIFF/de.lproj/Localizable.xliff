@@ -6,8 +6,8 @@
 		</header>
 		<body>
 			<trans-unit id="Test_Key_1">
-				<source></source>
-				<target></target>
+				<source>Automatic Test</source>
+				<target>Automatischer Test</target>
 			</trans-unit>
 			<trans-unit id="Test_Key_2">
 				<source>A Value</source>
@@ -20,6 +20,18 @@
 			<trans-unit id="Test_Key_4">
 				<source>Pear Pie</source>
 				<target>Pear Pie</target>
+			</trans-unit>
+			<trans-unit id="/Test_Key_5:dict/NSStringLocalizedFormatKey:dict/:string">
+				<source>%#@format@</source>
+				<target>%#@format@</target>
+			</trans-unit>
+			<trans-unit id="/Test_Key_5:dict/format:dict/one:dict/:string">
+				<source>%#@format@</source>
+				<target>%#@format@</target>
+			</trans-unit>
+			<trans-unit id="/Test_Key_5:dict/format:dict/other:dict/:string">
+				<source></source>
+				<target></target>
 			</trans-unit>
 			<trans-unit id="/Test_Key_5:dict/NSStringLocalizedFormatKey:dict/:string">
 				<source>%#@format@</source>
