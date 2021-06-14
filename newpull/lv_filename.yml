@@ -1,0 +1,8 @@
+lv:
+    Oi: 'Sveika komanda: vilnis:'
+    Test_Key_3: 'Ābolu pīrāgs'
+    Test_Key_4: 'Bumbieru pīrāgs'
+    Test_Key_5:
+        zero: '%#@format@'
+        one: ''
+        other: ''
