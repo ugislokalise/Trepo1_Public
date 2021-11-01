@@ -1,0 +1,23 @@
+{
+    "a plural key": {
+        "translation": {
+            "one": "one apple",
+            "other": "many apples"
+        }
+    },
+    "app_name": {
+        "translation": "My Application"
+    },
+    "five:six:seven": {
+        "translation": "another translation"
+    },
+    "key-two": {
+        "translation": "current"
+    },
+    "one.two.three": {
+        "translation": "my text is listed here"
+    },
+    "test_string": {
+        "translation": "Check it out…"
+    }
+}

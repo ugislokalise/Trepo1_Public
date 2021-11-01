@@ -1,0 +1,17 @@
+{
+    "app_name": {
+        "translation": "Mi aplicación"
+    },
+    "five:six:seven": {
+        "translation": "otra traducción"
+    },
+    "key-two": {
+        "translation": "actual"
+    },
+    "one.two.three": {
+        "translation": "mi texto aparece aquí"
+    },
+    "test_string": {
+        "translation": "Echale un vistazo…"
+    }
+}
