@@ -1,0 +1,24 @@
+{
+    "a plural key": {
+        "translation": {
+            "zero": "nav ābolu",
+            "one": "viens ābols",
+            "other": "vairāki āboli"
+        }
+    },
+    "app_name": {
+        "translation": "Mans pieteikums"
+    },
+    "five:six:seven": {
+        "translation": "cits tulkojums"
+    },
+    "key-two": {
+        "translation": "pašreizējais"
+    },
+    "one.two.three": {
+        "translation": "mans teksts ir norādīts šeit"
+    },
+    "test_string": {
+        "translation": "Pārbaudiet to…"
+    }
+}
