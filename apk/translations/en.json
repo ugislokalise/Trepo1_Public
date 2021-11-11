@@ -1,0 +1,12 @@
+{
+    "a plural key": {
+        "one": "one apple",
+        "other": "many apples"
+    },
+    "app_name": "My Application %ld",
+    "five:six:seven": "another translation",
+    "key one": "paycheck",
+    "key-two": "current",
+    "one.two.three": "my text is listed here",
+    "test_string": "Check it out… %d, once"
+}

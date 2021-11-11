@@ -1,0 +1,8 @@
+{
+    "app_name": "Mi aplicación %ld",
+    "five:six:seven": "otra traducción",
+    "key one": "sueldo",
+    "key-two": "Actual",
+    "one.two.three": "mi texto aparece aquí",
+    "test_string": "Compruébalo… %d"
+}
