@@ -1,0 +1,15 @@
+{
+    "a plural key": {
+        "zero": "nav ābolu",
+        "one": "viens ābols",
+        "other": "vairāki āboli"
+    },
+    "app_name": "Mans pieteikums %ld",
+    "five:six:seven": "cits tulkojums",
+    "fresh_1": "Sveiks, kā tev iet?",
+    "fresh_3": "Sveika pasaule!",
+    "key one": "algas čeks",
+    "key-two": "pašreizējais",
+    "one.two.three": "mans teksts ir norādīts šeit",
+    "test_string": "Pārbaudiet to… %d"
+}

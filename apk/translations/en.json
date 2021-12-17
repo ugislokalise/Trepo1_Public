@@ -1,0 +1,14 @@
+{
+    "a plural key": {
+        "one": "one apple",
+        "other": "many apples"
+    },
+    "app_name": "authlogin",
+    "five:six:seven": "another translation",
+    "fresh_1": "hi, how are you?",
+    "fresh_3": "hello world!",
+    "key one": "paycheck",
+    "key-two": "current",
+    "one.two.three": "my text is listed here",
+    "test_string": "Check it out… %d, once"
+}
