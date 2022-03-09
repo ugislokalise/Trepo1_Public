@@ -1,0 +1,20 @@
+{
+    "one": {
+        "two": {
+            "three": "current (changed)"
+        }
+    },
+    "one.two.three": "my text is listed here",
+    "five:six:seven": "current (changed)",
+    "a plural key": {
+        "one": "one apple",
+        "other": "many apples"
+    },
+    "app_name": "authlogin",
+    "test_string": "Check it out… %d, once",
+    "key one": "paycheck",
+    "a plural key_copy": {
+        "one": "one apple",
+        "other": "many apples"
+    }
+}
