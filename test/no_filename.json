@@ -1,0 +1,35 @@
+{
+    "fresh_1": "¿Hola, cómo estás?",
+    "fresh_3": "¡Hola Mundo!",
+    " a new key_copy": "¡Hola Mundo!",
+    " a new key_copy_copy": "¡Hola Mundo!",
+    "testK": {
+        "33": {
+            "two": "\\/saveditemslist"
+        },
+        "one": "\\/saveditemslist"
+    },
+    "tenant.payments.OnGoingPaymentTimeError": "el pago debe comenzar a partir de este mes en curso solo para pagos de construcción",
+    "tenant.payments.PaymentsInThePastError": "el pago no está configurado correctamente, regrese a la primera pantalla e intente nuevamente",
+    "tenant.payments.PartPayIsNotAllowedForTenant": "תשלום חלקי אינו מורשה עבור דייר",
+    "tenant.payments.PartPayIsNotAllowedForManager": "תשלום חלקי אינו מורשה עבור מנהל",
+    "tenant.search.SearchAddressIsNotCompleted": "No busqué la dirección de un edificio específico. número de calle requerido, nombre de la calle y ciudad",
+    "tenant.search.ApartmentNotFound": "No se encontró el número de apartamento {{apartmentNumber}}",
+    "onetwothree": "actual (cambiado)",
+    "fivesixseven": "actual (cambiado)",
+    "107395922:f5a0d4c6-0103-4d76-89d4-f2e06899d899:rich_description": "<p> Aquí se inserta una descripción de muestra </p>",
+    "107395922:f5a0d4c6-0103-4d76-89d4-f2e06899d899:rich_title": "<p> Aquí se inserta un texto de muestra </p>",
+    "ank": "Una nueva clave, aquí!",
+    "nest1.hello.team.behind.this.rock.treasure.is.hidden": "no hay tesoro, unforch",
+    "string_with_other_html": "<h1> ¡Hola mundo! </h1>",
+    "plural_string": {
+        "one": "%s gato",
+        "other": "%s gatos"
+    },
+    "array_of_strings[0]": "Siempre",
+    "array_of_strings[1]": "Cuando sea posible",
+    "array_of_strings[2]": "Nunca",
+    "array_of_strings[3]": "Nunca2",
+    "sample:listed:here": "traduciendo esto",
+    "sample.listed.here": "</strong> hola, equipo </a>"
+}

@@ -1,0 +1,16 @@
+{
+    "one": {
+        "two": {
+            "three": "pašreizējais"
+        }
+    },
+    "five:six:seven": "pašreizējais",
+    "a plural key": [],
+    "app_name": "Mans pieteikums %ld",
+    "key one": "algas čeks",
+    "a plural key_copy": {
+        "zero": "nav ābolu",
+        "one": "viens ābols",
+        "other": "vairāki āboli"
+    }
+}
