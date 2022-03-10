@@ -1,0 +1,37 @@
+{
+    "fresh_1": "Oi como você está?",
+    "fresh_3": "Olá Mundo!",
+    " a new key_copy": "Olá Mundo!",
+    " a new key_copy_copy": "Olá Mundo!",
+    "testK": {
+        "33": {
+            "two": "\\/saveditemslist"
+        },
+        "one": "\\/saveditemslist"
+    },
+    "tenant.payments.OnGoingPaymentTimeError": "o pagamento deve começar a partir deste mês atual apenas para o Building Payments",
+    "tenant.payments.PaymentsInThePastError": "o pagamento não está configurado corretamente, retorne à primeira tela e tente novamente",
+    "tenant.payments.PartPayIsNotAllowedForTenant": "תשלום חלקי אינו מורשה עבור דייר",
+    "tenant.payments.PartPayIsNotAllowedForManager": "תשלום חלקי אינו מורשה עבור מנהל",
+    "tenant.search.SearchAddressIsNotCompleted": "Não pesquisou um endereço de edifício específico. número da rua necessária, nome da rua e cidade",
+    "tenant.search.ApartmentNotFound": "O número {{apartmentNumber}} não foi encontrado",
+    "onetwothree": "atual (alterado)",
+    "fivesixseven": "atual (alterado)",
+    "107395922:f5a0d4c6-0103-4d76-89d4-f2e06899d899:rich_description": "<p> Uma descrição de exemplo é inserida aqui </p>",
+    "107395922:f5a0d4c6-0103-4d76-89d4-f2e06899d899:rich_title": "<p> Um texto de exemplo é inserido aqui </p>",
+    "ank": "Uma nova chave, aqui!",
+    "nest1.hello.team.behind.this.rock.treasure.is.hidden": "não há tesouro, unforch",
+    "string_with_other_html": "<h1> Olá, mundo! </h1>",
+    "plural_string": {
+        "one": "%s gato",
+        "other": "%s gatos"
+    },
+    "array_of_strings[0]": "Sempre",
+    "array_of_strings[1]": "Quando possivel",
+    "array_of_strings[2]": "Nunca",
+    "array_of_strings[3]": "Nunca2",
+    "sample:listed:here": "traduzindo isso",
+    "sample.listed.here": "</strong> olá, equipe </a>",
+    "test1": "larga a base",
+    "k32": "mais gotas"
+}
