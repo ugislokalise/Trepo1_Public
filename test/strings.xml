@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="testK33two">\/saveditemslist</string>
+    <string name="testKone">\/saveditemslist</string>
+    <string name="tenant.payments.OnGoingPaymentTimeError">el pago debe comenzar a partir de este mes en curso solo para pagos de construcción</string>
+    <string name="tenant.payments.PaymentsInThePastError">el pago no está configurado correctamente, regrese a la primera pantalla e intente nuevamente</string>
+    <string name="tenant.payments.PartPayIsNotAllowedForTenant">תשלום חלקי אינו מורשה עבור דייר</string>
+    <string name="tenant.payments.PartPayIsNotAllowedForManager">תשלום חלקי אינו מורשה עבור מנהל</string>
+    <string name="tenant.search.SearchAddressIsNotCompleted">No busqué la dirección de un edificio específico. número de calle requerido, nombre de la calle y ciudad</string>
+    <string name="tenant.search.ApartmentNotFound">No se encontró el número de apartamento {{apartmentNumber}}</string>
+    <string name="f5a0d4c6_0103_4d76_89d4_f2e06899d899rich_description"><![CDATA[<p> Aquí se inserta una descripción de muestra </p>]]></string>
+    <string name="f5a0d4c6_0103_4d76_89d4_f2e06899d899rich_title"><![CDATA[<p> Aquí se inserta un texto de muestra </p>]]></string>
+    <string name="test1">dejar caer la base</string>
+    <string name="k32">mas gotas</string>
+</resources>
