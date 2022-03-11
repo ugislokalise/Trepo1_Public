@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="array_of_strings">
+        <item>Vienmēr</item>
+        <item>Kad iespējams</item>
+        <item>Nekad</item>
+        <item>Nekad2</item>
+    </string-array>
+    <string name="onetwothree">pašreizējais (mainīts)</string>
+    <string name="fivesixseven">pašreizējais (mainīts)</string>
+    <plurals name="a_plural_key">
+        <item quantity="zero"></item>
+        <item quantity="one">viens ābols</item>
+        <item quantity="other">daudz ābolu</item>
+    </plurals>
+    <string name="app_name">autorizācija</string>
+    <string name="key_one">algas čeks</string>
+    <string name="fresh_1">Sveiks, kā tev iet?</string>
+    <string name="fresh_3">Sveika pasaule!</string>
+    <string name="_a_new_key_copy">Sveika pasaule!</string>
+    <plurals name="a_plural_key_copy">
+        <item quantity="zero"></item>
+        <item quantity="one">viens ābols</item>
+        <item quantity="other">daudz ābolu</item>
+    </plurals>
+    <string name="_a_new_key_copy_copy">Sveika pasaule!</string>
+    <string name="onetwothree">pašreizējais (mainīts)</string>
+    <string name="fivesixseven">pašreizējais (mainīts)</string>
+    <string name="ank">Jauna atslēga, šeit!</string>
+    <string name="nest1.hello.team.behind.this.rock.treasure.is.hidden">nav dārgumu, unforch</string>
+    <string name="string_with_other_html"><![CDATA[<h1> Sveika pasaule! </h1>]]></string>
+    <plurals name="plural_string">
+        <item quantity="zero"></item>
+        <item quantity="one">%s kaķis</item>
+        <item quantity="other">%s kaķi</item>
+    </plurals>
+    <string name="samplelistedhere">tulkojot šo</string>
+    <string name="sample.listed.here">&lt;/strong&gt; sveiki, komanda &lt;/a&gt;</string>
+    <string name="sample.listed.here.yo2">una Prueba %1$s</string>
+    <string name="samplelistedoi">tulkojot šo %s</string>
+</resources>
