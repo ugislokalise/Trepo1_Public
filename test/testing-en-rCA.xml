@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+      <string-array name="array_of_strings">
+            <item>Always</item>
+            <item>When possible</item>
+            <item>Never</item>
+            <item>Never2</item>
+      </string-array>
+      <string name="onetwothree">current (changed)</string>
+      <string name="fivesixseven">current (changed)</string>
+      <plurals name="a_plural_key">
+            <item quantity="one">one apple</item>
+            <item quantity="other">many apples</item>
+      </plurals>
+      <string name="app_name">authlogin</string>
+      <string name="key_one">paycheck</string>
+      <string name="fresh_1">hi, how are you?</string>
+      <string name="fresh_3">hello world!</string>
+      <string name="_a_new_key_copy">hello world!</string>
+      <plurals name="a_plural_key_copy">
+            <item quantity="one">one apple</item>
+            <item quantity="other">many apples</item>
+      </plurals>
+      <string name="_a_new_key_copy_copy">hello world!</string>
+      <string name="onetwothree">current (changed)</string>
+      <string name="fivesixseven">current (changed)</string>
+      <string name="ank">A new key, here!</string>
+      <string name="nest1.hello.team.behind.this.rock.treasure.is.hidden">there is no treasure, unforch</string>
+      <string name="string_with_other_html"><![CDATA[<h1>Hello world!</h1>]]></string>
+      <plurals name="plural_string">
+            <item quantity="one">%s cat</item>
+            <item quantity="other">%s cats</item>
+      </plurals>
+      <string name="samplelistedhere">translating this</string>
+      <string name="sample.listed.here">&lt;/strong&gt; hello, team &lt;/a&gt;</string>
+      <string name="sample.listed.here.yo2">una prueba %1$s</string>
+      <string name="samplelistedoi">translating this %s</string>
+</resources>
