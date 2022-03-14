@@ -1,0 +1,18 @@
+{
+    "one": {
+        "two": {
+            "three": "atual (alterado)"
+        }
+    },
+    "five:six:seven": "atual (alterado)",
+    "a plural key": {
+        "one": "uma maçã",
+        "other": "muitas maçãs"
+    },
+    "app_name": "login",
+    "key one": "contracheque",
+    "a plural key_copy": {
+        "one": "uma maçã",
+        "other": "muitas maçãs"
+    }
+}

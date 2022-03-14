@@ -1,0 +1,18 @@
+{
+    "one": {
+        "two": {
+            "three": "current (changed)"
+        }
+    },
+    "five:six:seven": "current (changed)",
+    "a plural key": {
+        "one": "one apple",
+        "other": "many apples"
+    },
+    "app_name": "authlogin",
+    "key one": "paycheck",
+    "a plural key_copy": {
+        "one": "one apple",
+        "other": "many apples"
+    }
+}
