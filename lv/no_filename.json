@@ -1,0 +1,39 @@
+{
+    "fresh_1": "Sveiks, kā tev iet?",
+    "fresh_3": "Sveika pasaule!",
+    " a new key_copy": "Sveika pasaule!",
+    " a new key_copy_copy": "Sveika pasaule!",
+    "testK": {
+        "33": {
+            "two": "\\/saveditemslist"
+        },
+        "one": "\\/saveditemslist"
+    },
+    "tenant.payments.OnGoingPaymentTimeError": "maksājums jāsāk no šī kārtējā mēneša tikai par ēku maksājumiem",
+    "tenant.payments.PaymentsInThePastError": "maksājums nav pareizi iestatīts, lūdzu, atgriezieties pirmajā ekrānā un mēģiniet vēlreiz",
+    "tenant.payments.PartPayIsNotAllowedForTenant": "תשלום חלקי אינו מורשה עבור דייר",
+    "tenant.payments.PartPayIsNotAllowedForManager": "תשלום חלקי אינו מורשה עבור מנהל",
+    "tenant.search.SearchAddressIsNotCompleted": "Nemeklēja konkrētu ēkas adresi. nepieciešamais ielas numurs, ielas nosaukums un pilsēta",
+    "tenant.search.ApartmentNotFound": "Dzīvoklis numurs {{apartmentNumber}} netika atrasts",
+    "onetwothree": "pašreizējais (mainīts)",
+    "fivesixseven": "pašreizējais (mainīts)",
+    "107395922:f5a0d4c6-0103-4d76-89d4-f2e06899d899:rich_description": "<p> Šeit ir ievietots apraksta paraugs </p>",
+    "107395922:f5a0d4c6-0103-4d76-89d4-f2e06899d899:rich_title": "<p> Šeit ir ievietots teksta paraugs </p>",
+    "ank": "Jauna atslēga, šeit!",
+    "nest1.hello.team.behind.this.rock.treasure.is.hidden": "nav dārgumu, unforch",
+    "string_with_other_html": "<h1> Sveika pasaule! </h1>",
+    "plural_string": {
+        "zero": "",
+        "one": "%s kaķis",
+        "other": "%s kaķi"
+    },
+    "array_of_strings[0]": "Vienmēr",
+    "array_of_strings[1]": "Kad iespējams",
+    "array_of_strings[2]": "Nekad",
+    "array_of_strings[3]": "Nekad2",
+    "sample:listed:here": "tulkojot šo",
+    "sample.listed.here": "</strong> sveiki, komanda </a>",
+    "test1": "nometiet pamatni",
+    "k32": "vairāk pilienu",
+    "test1_copy": ""
+}

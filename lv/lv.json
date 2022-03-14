@@ -1,0 +1,20 @@
+{
+    "one": {
+        "two": {
+            "three": "pašreizējais (mainīts)"
+        }
+    },
+    "five:six:seven": "pašreizējais (mainīts)",
+    "a plural key": {
+        "zero": "",
+        "one": "viens ābols",
+        "other": "daudz ābolu"
+    },
+    "app_name": "autorizācija",
+    "key one": "algas čeks",
+    "a plural key_copy": {
+        "zero": "",
+        "one": "viens ābols",
+        "other": "daudz ābolu"
+    }
+}

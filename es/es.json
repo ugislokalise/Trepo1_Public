@@ -1,0 +1,18 @@
+{
+    "one": {
+        "two": {
+            "three": "actual (cambiado)"
+        }
+    },
+    "five:six:seven": "actual (cambiado)",
+    "a plural key": {
+        "one": "una manzana",
+        "other": "muchas manzanas"
+    },
+    "app_name": "autenticarse",
+    "key one": "cheque de pago",
+    "a plural key_copy": {
+        "one": "una manzana",
+        "other": "muchas manzanas"
+    }
+}
