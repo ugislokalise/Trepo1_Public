@@ -1,0 +1,67 @@
+{
+    "one": {
+        "two": {
+            "three": ""
+        }
+    },
+    "five:six:seven": "",
+    "a plural key": {
+        "zero": "",
+        "one": "",
+        "two": "",
+        "few": "",
+        "many": "",
+        "other": ""
+    },
+    "app_name": "",
+    "key one": "",
+    "fresh_1": "",
+    "fresh_3": "",
+    " a new key_copy": "",
+    "a plural key_copy": {
+        "zero": "",
+        "one": "",
+        "two": "",
+        "few": "",
+        "many": "",
+        "other": ""
+    },
+    " a new key_copy_copy": "",
+    "testK": {
+        "33": {
+            "two": ""
+        },
+        "one": ""
+    },
+    "tenant.payments.OnGoingPaymentTimeError": "",
+    "tenant.payments.PaymentsInThePastError": "",
+    "tenant.payments.PartPayIsNotAllowedForTenant": "",
+    "tenant.payments.PartPayIsNotAllowedForManager": "",
+    "tenant.search.SearchAddressIsNotCompleted": "",
+    "tenant.search.ApartmentNotFound": "",
+    "onetwothree": "",
+    "fivesixseven": "",
+    "107395922:f5a0d4c6-0103-4d76-89d4-f2e06899d899:rich_description": "",
+    "107395922:f5a0d4c6-0103-4d76-89d4-f2e06899d899:rich_title": "",
+    "ank": "",
+    "nest1.hello.team.behind.this.rock.treasure.is.hidden": "",
+    "string_with_other_html": "",
+    "plural_string": {
+        "zero": "",
+        "one": "",
+        "two": "",
+        "few": "",
+        "many": "",
+        "other": ""
+    },
+    "array_of_strings[0]": "",
+    "array_of_strings[1]": "",
+    "array_of_strings[2]": "",
+    "array_of_strings[3]": "",
+    "sample:listed:here": "",
+    "sample.listed.here": "",
+    "sample.listed.here.yo2": "",
+    "sample:listed:oi": "",
+    "test1": "drop the base",
+    "k32": ""
+}
